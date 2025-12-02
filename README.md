@@ -1,6 +1,6 @@
 # Repository template for ECEM202A/CSM213A projects
 
-Structure overview
+## Structure overview
 
 * doc/ for GitHub Pages website content
 * software/ for code used in your project
@@ -13,7 +13,8 @@ The doc/ folder has a simple *starter template* for a GitHub Pages website using
 
 Please update docs/\_config.yml with your project's metadata such as title and description.
 
-✅ Expectations for a Strong Project Website
+## ✅ Expectations for a Strong Project Website
+
 * Introduction: Clear motivation, context, and goals.
 * Related Work: 5–12 relevant references with explanation.
 * Technical Approach: Architecture diagram, pipeline, algorithm details.
@@ -25,15 +26,10 @@ Please update docs/\_config.yml with your project's metadata such as title and d
 Your website is your final report – treat it like a conference-style project writeup, but more visual and accessible.
 
 
-===========================================
+## Guidelines for a Strong Project Website
 
-Guidelines for a Strong Project Website
 
-===========================================
-
-⸻
-
-1. Include Figures & Visuals Liberally
+### 1. Include Figures & Visuals Liberally
 
 Every major section should have at least one figure:
 * Architecture diagram
@@ -44,21 +40,16 @@ Every major section should have at least one figure:
 
 Projects with few or no visuals will feel incomplete.
 
-⸻
 
-2. Make the site readable to a smart non-expert
+### 2. Make the site readable to a smart non-expert
 
 Avoid jargon, especially in the introduction.
 
-⸻
-
-3. Use structured subsections
+### 3. Use structured subsections
 
 Every major section should have 3–5 subsections.
 
-⸻
-
-4. Provide reproducibility
+### 4. Provide reproducibility
 
 Include:
 * Hyperlinks to datasets
@@ -66,9 +57,7 @@ Include:
 * Parameters and configuration details
 * Implementation notes
 
-⸻
-
-5. Present results professionally
+### 5. Present results professionally
 
 Figures must:
 * Have readable labels
@@ -76,10 +65,6 @@ Figures must:
 * Include units and legends
 * Provide captions explaining what the figure shows
 
-⸻
-
-6. Cite generously
+### 6. Cite generously
 
 A typical project should cite 5–12 relevant papers.
-
-⸻
