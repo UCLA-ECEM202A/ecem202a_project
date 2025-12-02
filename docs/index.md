@@ -41,9 +41,9 @@ This should be a standalone “TL;DR” of your project.
 
 ---
 
-> Delete this section if you have node videos.
+> Delete this section if you have no videos.
 
-##  **Videos**
+## 🎬 **Videos**
 
 - Links to any videos demonstrating your project
 
