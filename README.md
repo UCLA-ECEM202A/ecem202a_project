@@ -1,7 +1,7 @@
 # Repository template for ECEM202A/CSM213A projects
 
 ## 🧩 Structure Overview
-* doc/ for GitHub Pages website content
+* docs/ for GitHub Pages website content
 * software/ for code used in your project
 * data/ for data data used in your project
 
